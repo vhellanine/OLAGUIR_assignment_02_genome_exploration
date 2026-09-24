@@ -1,4 +1,4 @@
-# OLAGUIR_asignment_1_genome_exploration
+# OLAGUIR_assignment_1_genome_exploration
 # Name: Olaguir, Junavhel Jane B.
 # Activity Title: Basic Genome Structure and Sequence Exploration Using Galaxy
 BIO 300 –A Cell and Molecular Biology Laboratory
